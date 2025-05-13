@@ -85,5 +85,5 @@ A fixed 20-class subset of CIFAR-100, filtered using a team seed. Images are res
 
 ---
 
-
+Created as part of the Image and Video Technology and Analysis lab assignment
 
